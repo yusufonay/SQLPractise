@@ -1,1 +1,31 @@
-<mxfile host="www.draw.io" modified="2019-11-30T01:05:26.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="12bba5i_oUZvIY-BK0nG" version="12.3.3" type="github" pages="1"><diagram id="z0v_o7JT59xxkkep_hNg" name="Page-1">7Zffb9owEMf/Gh475QdJ6eOSlrGJbtWQ1ucjcRILJ4ccM6B//c6JTcgiJEZX8QJEUfz12b67zxmckR+Xuy8S1sUzpkyMPCfdjfzHkec9jD26a2HfCqE7boVc8rSV3E5Y8DdmRMeoG56yumeoEIXi676YYFWxRPU0kBK3fbMMRX/VNeRsICwSEEP1laeqaNVJ4HT6jPG8sCu7jukpwRoboS4gxe2R5D+N/Fgiqvap3MVM6NzZvLTjpid6D45JVqlzBsxmdRL+grzM1A+x4tG3OwjvzCy/QWxMwAu1SfWMrc9qbxNRb3kpoKJWlGGlFqbHoXZScJHOYY8b7UitIFnZVlSg5G9kD4K6XBKoWyrD2Qv1bFyIGAXKZh2fOfrbG7nQM5q1JKtp7IuN2v1LeoZdz3AOtbJeohCwrvmy8VsPLEHmvIpQKSyNkY1y2ncqaz7UD4LnFWkJrcWkzUUbDVW2H5l8MqnY7iQo94Cftg3Dkim5JxMzwBbMvt/cduXnhkYrjktvYrYamJLPDzN3VUEPpjD+oUiCQZFMuaS8es53KNmgUihy1YCWuGI2iRW2pXOUVyPVa0h4lc9ZpgMZd8pPE5uWkDKaiWb7FDylAtWEUYGC5aEM18gr1cQeRHRRimLnUzAKyKeY2m7XpkubSxVjRW4Cb8AwqpUt0/XSo+qdS/X0BhuitmzD89hau/+O1h+gbXbMjex7yQbelcmGA7KPoAipgxndIi7JrRvfi/neT67M9/7UP/fX9Mb1cq6uM74y2PEA7EuhudBv8qZc0qHjRvdyuv6Zh6kPo/swoPs5TemsWt+wvgNr8HHnKGp272hN39GLrv/0Bw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-30T01:07:01.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="89ab_FbAtbMx7F2S3ed-" version="12.3.3" type="github" pages="1">
+  <diagram id="z0v_o7JT59xxkkep_hNg" name="Page-1">
+    <mxGraphModel dx="942" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="HHsc6VagmftOlkiBJ-a6-1" value="Student" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="160" height="182" as="geometry"/>
+        </mxCell>
+        <mxCell id="HHsc6VagmftOlkiBJ-a6-5" value="First Name" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="HHsc6VagmftOlkiBJ-a6-1" vertex="1">
+          <mxGeometry y="26" width="160" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="HHsc6VagmftOlkiBJ-a6-3" value="Last Name" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="HHsc6VagmftOlkiBJ-a6-1" vertex="1">
+          <mxGeometry y="52" width="160" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="HHsc6VagmftOlkiBJ-a6-6" value="Date of Birth" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="HHsc6VagmftOlkiBJ-a6-1" vertex="1">
+          <mxGeometry y="78" width="160" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="HHsc6VagmftOlkiBJ-a6-7" value="StudentId" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="HHsc6VagmftOlkiBJ-a6-1" vertex="1">
+          <mxGeometry y="104" width="160" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="HHsc6VagmftOlkiBJ-a6-4" value="Phone Number" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="HHsc6VagmftOlkiBJ-a6-1" vertex="1">
+          <mxGeometry y="130" width="160" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="HHsc6VagmftOlkiBJ-a6-9" value="Address" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="HHsc6VagmftOlkiBJ-a6-1" vertex="1">
+          <mxGeometry y="156" width="160" height="26" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
